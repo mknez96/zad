@@ -1,0 +1,10 @@
+C:\Users\foi.LABOS\Documents\zad\zad\zad\bin\Debug\zad.exe.config
+C:\Users\foi.LABOS\Documents\zad\zad\zad\bin\Debug\zad.exe
+C:\Users\foi.LABOS\Documents\zad\zad\zad\bin\Debug\zad.pdb
+C:\Users\foi.LABOS\Documents\zad\zad\zad\obj\Debug\zad.csprojAssemblyReference.cache
+C:\Users\foi.LABOS\Documents\zad\zad\zad\obj\Debug\zad.Form1.resources
+C:\Users\foi.LABOS\Documents\zad\zad\zad\obj\Debug\zad.Properties.Resources.resources
+C:\Users\foi.LABOS\Documents\zad\zad\zad\obj\Debug\zad.csproj.GenerateResource.cache
+C:\Users\foi.LABOS\Documents\zad\zad\zad\obj\Debug\zad.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\Documents\zad\zad\zad\obj\Debug\zad.exe
+C:\Users\foi.LABOS\Documents\zad\zad\zad\obj\Debug\zad.pdb
