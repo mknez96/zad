@@ -36,10 +36,7 @@ namespace zad
                     textBoxIspis.Text += tros.Ispis(listaTroskova) + Environment.NewLine;
                 }
                 textBoxUnosCijene.Clear();
-
-
                 textBoxUnosVrste.Clear();           
-
             }
         }
 
